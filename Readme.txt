@@ -1,1 +1,1 @@
-You can visit MyProfile webpage by clicking [here](https://oserdaro.github.io/oserdaro/).
+You can visit MyProfile webpage by clicking [here](https://oserdaro.github.io/oserdaro/index.html).
